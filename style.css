@@ -1,0 +1,339 @@
+
+
+body{
+    
+    background-color: rgba(255, 255, 255, 0.734);
+    font-size: 13px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.container{
+    height: auto;
+    width: auto;
+    padding: 45px;
+    margin: 30px;
+}
+
+.tete{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.wib{
+    font-size: 27px;
+    position: relative;
+    top: -11px;
+}
+
+.wibus{
+    text-decoration: none;
+}
+
+.menu{
+    position: relative;
+    top: -19px;
+}
+
+nav ul{
+    text-align: center;
+    list-style-type: none;
+    justify-content: center;
+    padding: 0;
+    margin: 15px;
+}
+
+nav li {
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    padding: 20px;
+    color: grey;
+}
+
+button{
+    color: white;
+    background-color: rgb(228, 59, 59);
+    border-radius: 10px;
+    padding: 8px;
+    position: relative;
+    top: -15px;
+}
+
+.contenue{
+  padding: 40px;
+}
+
+.partie1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.paragraphe1{
+    line-height: 45px;
+    width: 400px;
+    
+}
+
+.rond1{
+    width : 50px; height : 50px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+  }
+.rond2{
+    width : 50px; height : 50px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+}
+.rond3{
+    width : 50px; height : 50px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+}
+.rond3{
+    width : 50px; height : 50px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+}
+.rond3{
+    width : 50px; height : 50px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+}
+.rond4{
+    width : 50px; height : 50px;
+    border: none;
+    -moz-border-radius : 75px;
+    -webkit-border-radius : 75px;
+    border-radius : 75px;
+}
+.paragraphe2{
+    
+}
+
+.montagne{
+    border-radius: 150px 150px 0 0;
+    height: 400px;
+    width: 350px;
+}
+
+.destination{
+    background-color: #fff;
+    display: flex;
+    height: 30px;
+    width: 100px;
+    align-items: center;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    position: relative;
+    top: -350px;
+    left: -20px;
+}
+
+.eiffel{
+    background-color: rgba(182, 176, 176, 0.419);
+    border-radius: 5px;
+    padding: 5px;
+    height: 17px;
+    width: 17px;
+}
+
+.des{
+    top: 10px;
+    padding: 5px;
+}
+
+.useronline{
+    background-color: #fff;
+    display: flex;
+    height: 30px;
+    width: 100px;
+    align-items: center;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    position: relative;
+    top: -460px;
+    left: 150px;
+}
+
+.enfants-16{
+    background-color: rgba(182, 176, 176, 0.419);
+    border-radius: 5px;
+    padding: 5px;
+    height: 17px;
+    width: 17px;
+}
+
+.user{
+    top: 10px;
+    padding: 5px;
+}
+
+.visitejapan{
+    background-color: #fff;
+    display: flex;
+    height: 30px;
+    width: 100px;
+    align-items: center;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 10px;
+    position: relative;
+    top: -200px;
+    left: 125px;
+}
+
+.visite{
+    background-color: rgba(182, 176, 176, 0.419);
+    border-radius: 5px;
+    padding: 5px;
+    height: 17px;
+    width: 17px;
+}
+
+.vis{
+    top: 10px;
+    padding: 5px;
+}
+
+.partie2{
+    display: flex;
+    justify-content: space-around;
+}
+
+.partie3{
+    display: flex;
+    justify-content: center;
+    padding: 5px;
+}
+
+.paragraphe3{
+    line-height: 45px;
+    width: 300px;
+    padding: 50px;
+    margin-left: 50px;
+}
+
+.paragraphe4{
+    position: relative;
+    left: 180px; 
+}
+
+.bookdes{
+    background-color:#fff;
+    display: inline-block;
+    height: 120px;
+    width: 190px;
+    justify-content: space-between;
+    padding: 25px;
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+    left: -90px;
+    border: 1px solid whitesmoke;
+}
+
+.book{
+    background-color: rgb(118, 122, 228);
+    border-radius: 5px;
+    padding: 5px;
+    height: 25px;
+    width: 25px;
+}
+
+.bkd{
+    line-height: 25px;
+}
+
+.preparation{
+    background-color:#fff;
+    display: inline-block;
+    height: 120px;
+    width: 190px;
+    justify-content: space-between;
+    padding: 25px;
+    border-radius: 10px;
+    position: relative;
+    top: 10px;
+    left: -50px;
+    border: 1px solid whitesmoke;
+}
+
+.valise{
+    background-color: rgb(118, 122, 228);
+    border-radius: 5px;
+    padding: 5px;
+    height: 25px;
+    width: 25px; 
+}
+
+.go{
+    line-height: 25px;
+}
+
+.gotodes{
+    background-color:#fff;
+    display: inline-block;
+    height: 120px;
+    width: 190px;
+    justify-content: space-between;
+    padding: 25px;
+    border-radius: 10px;
+    position: relative;
+    top: 50px;
+    left: -90px;
+    border: 1px solid whitesmoke;
+}
+
+.goto{
+    background-color: rgb(118, 122, 228);
+    border-radius: 5px;
+    padding: 5px;
+    height: 25px;
+    width: 25px; 
+}
+
+.got{
+    line-height: 25px;
+}
+
+.enjoy{
+    background-color:#fff;
+    display: inline-block;
+    height: 120px;
+    width: 190px;
+    justify-content: space-between;
+    padding: 25px;
+    border-radius: 10px;
+    position: relative;
+    top: 50px;
+    left: -50px;
+    border: 1px solid whitesmoke;
+}
+
+.enjo{
+    background-color: rgb(118, 122, 228);
+    border-radius: 5px;
+    padding: 5px;
+    height: 25px;
+    width: 25px; 
+}
+
+.vac{
+    line-height: 25px;
+}
